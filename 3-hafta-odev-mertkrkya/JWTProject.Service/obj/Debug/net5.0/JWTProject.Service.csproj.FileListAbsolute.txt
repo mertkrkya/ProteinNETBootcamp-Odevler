@@ -1,0 +1,17 @@
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Service.deps.json
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Service.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\ref\JWTProject.Service.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Service.pdb
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Core.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Data.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Data.pdb
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\bin\Debug\net5.0\JWTProject.Core.pdb
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.csproj.AssemblyReference.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.AssemblyInfoInputs.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.AssemblyInfo.cs
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.csproj.CopyComplete
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\ref\JWTProject.Service.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Service\obj\Debug\net5.0\JWTProject.Service.pdb

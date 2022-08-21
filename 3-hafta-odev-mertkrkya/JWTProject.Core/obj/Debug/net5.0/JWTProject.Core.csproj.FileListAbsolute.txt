@@ -1,0 +1,12 @@
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\bin\Debug\net5.0\JWTProject.Core.deps.json
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\bin\Debug\net5.0\JWTProject.Core.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\bin\Debug\net5.0\ref\JWTProject.Core.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\bin\Debug\net5.0\JWTProject.Core.pdb
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.csproj.AssemblyReference.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.AssemblyInfoInputs.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.AssemblyInfo.cs
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\ref\JWTProject.Core.dll
+C:\Users\karak\Documents\GitHub\3-hafta-odev-mertkrkya\Mert-Karakaya-3.Odev\JWTProject.Core\obj\Debug\net5.0\JWTProject.Core.pdb
