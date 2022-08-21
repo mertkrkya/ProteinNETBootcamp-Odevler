@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Test\\CompanyAPI.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\CompanyAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\CompanyAPI.Core.csproj",
+        "projectName": "CompanyAPI.Core",
+        "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\CompanyAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\CompanyAPI.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\CompanyAPI.Data.csproj",
+        "projectName": "CompanyAPI.Data",
+        "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\CompanyAPI.Data.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\CompanyAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Core\\CompanyAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\CompanyAPI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\CompanyAPI.Service.csproj",
+        "projectName": "CompanyAPI.Service",
+        "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\CompanyAPI.Service.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\CompanyAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Data\\CompanyAPI.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Test\\CompanyAPI.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Test\\CompanyAPI.Test.csproj",
+        "projectName": "CompanyAPI.Test",
+        "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Test\\CompanyAPI.Test.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\CompanyAPI.csproj": {
+                "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\CompanyAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\CompanyAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\CompanyAPI.csproj",
+        "projectName": "CompanyAPI",
+        "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\CompanyAPI.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\CompanyAPI.Service.csproj": {
+                "projectPath": "C:\\Users\\karak\\Documents\\GitHub\\Mert-Karakaya-2.Odev\\Mert-Karakaya-2.Odev\\CompanyAPI.Service\\CompanyAPI.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
